@@ -2,21 +2,20 @@ name: binder
 channels:
   - defaults
 dependencies:
-  - python=3.6.3
+  - python=3.8.5
   - pip
   - setuptools
   - wheel
   - pip:
-    - h5py==2.7.1
+    - h5py==2.10.0
     - Keras==2.1.6
-    - numpy==1.14.3
-    - pandas==0.22.0
+    - numpy==1.19.2
+    - pandas==0.24.2
     - Pillow==5.1.0
     - pydotplus==2.0.2
     - requests==2.18.4
-    - scikit-image==0.13.1
-    - scikit-learn==0.19.1
-    - scipy==1.0.1
-    - tensorboard==1.8.0
-    - tensorflow==1.8.0
+    - scikit-image==0.18.2
+    - scikit-learn==0.24.2
+    - scipy==1.7.1
+    - tensorflow==2.4.0
 prefix: /Users/dionny/opt/anaconda3/envs/binder
