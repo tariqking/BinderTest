@@ -1,0 +1,94 @@
+Observe Dropdown Title Try VALID Title Click Commit NotObserve ErrorMessage
+Observe Textbox FirstName Try VALID FirstName Click Commit NotObserve ErrorMessage
+Observe Textbox FirstName Try BLANK FirstName Click Commit NotObserve ErrorMessage
+Observe Textbox FirstName Try WHITESPACE FirstName Click Commit NotObserve ErrorMessage
+Observe Textbox FirstName Try INVALID_LONG FirstName Click Commit Observe ErrorMessage
+Observe Textbox FirstName Try INVALID_SPECIAL_CHARACTERS FirstName Click Commit Observe ErrorMessage
+Observe Textbox FirstName Try INVALID_XSR FirstName Click Commit Observe ErrorMessage
+Observe Required Textbox FirstName Try VALID FirstName Click Commit NotObserve ErrorMessage
+Observe Required Textbox FirstName Try BLANK FirstName Click Commit Observe ErrorMessage
+Observe Required Textbox FirstName Try WHITESPACE FirstName Click Commit Observe ErrorMessage
+Observe Required Textbox FirstName Try INVALID_LONG FirstName Click Commit Observe ErrorMessage
+Observe Required Textbox FirstName Try INVALID_SPECIAL_CHARACTERS FirstName Click Commit Observe ErrorMessage
+Observe Required Textbox FirstName Try INVALID_XSR FirstName Click Commit Observe ErrorMessage
+Observe Textbox Middle Try VALID Middle Click Commit NotObserve ErrorMessage
+Observe Textbox Middle Try BLANK Middle Click Commit NotObserve ErrorMessage
+Observe Textbox Middle Try WHITESPACE Middle Click Commit NotObserve ErrorMessage
+Observe Textbox Middle Try INVALID_LONG Middle Click Commit Observe ErrorMessage
+Observe Textbox Middle Try INVALID_SPECIAL_CHARACTERS Middle Click Commit Observe ErrorMessage
+Observe Textbox Middle Try INVALID_XSR Middle Click Commit Observe ErrorMessage
+Observe Textbox LastName Try VALID LastName Click Commit NotObserve ErrorMessage
+Observe Textbox LastName Try BLANK LastName Click Commit NotObserve ErrorMessage
+Observe Textbox LastName Try WHITESPACE LastName Click Commit NotObserve ErrorMessage
+Observe Textbox LastName Try INVALID_LONG LastName Click Commit Observe ErrorMessage
+Observe Textbox LastName Try INVALID_SPECIAL_CHARACTERS LastName Click Commit Observe ErrorMessage
+Observe Textbox LastName Try INVALID_XSR LastName Click Commit Observe ErrorMessage
+Observe Required Textbox LastName Try VALID LastName Click Commit NotObserve ErrorMessage
+Observe Required Textbox LastName Try BLANK LastName Click Commit Observe ErrorMessage
+Observe Required Textbox LastName Try WHITESPACE LastName Click Commit Observe ErrorMessage
+Observe Required Textbox LastName Try INVALID_LONG LastName Click Commit Observe ErrorMessage
+Observe Required Textbox LastName Try INVALID_SPECIAL_CHARACTERS LastName Click Commit Observe ErrorMessage
+Observe Required Textbox LastName Try INVALID_XSR LastName Click Commit Observe ErrorMessage
+Observe Dropdown Suffix Try VALID Suffix Click Commit NotObserve ErrorMessage
+Observe Textbox PrimaryPhone Try VALID PrimaryPhone Click Commit NotObserve ErrorMessage
+Observe Textbox PrimaryPhone Try BLANK PrimaryPhone Click Commit NotObserve ErrorMessage
+Observe Textbox PrimaryPhone Try WHITESPACE PrimaryPhone Click Commit NotObserve ErrorMessage
+Observe Textbox PrimaryPhone Try INVALID_LONG PrimaryPhone Click Commit Observe ErrorMessage
+Observe Textbox PrimaryPhone Try INVALID_SPECIAL_CHARACTERS PrimaryPhone Click Commit Observe ErrorMessage
+Observe Textbox PrimaryPhone Try INVALID_XSR PrimaryPhone Click Commit Observe ErrorMessage
+Observe Textbox SecondaryPhone Try VALID SecondaryPhone Click Commit NotObserve ErrorMessage
+Observe Textbox SecondaryPhone Try BLANK SecondaryPhone Click Commit NotObserve ErrorMessage
+Observe Textbox SecondaryPhone Try WHITESPACE SecondaryPhone Click Commit NotObserve ErrorMessage
+Observe Textbox SecondaryPhone Try INVALID_LONG SecondaryPhone Click Commit Observe ErrorMessage
+Observe Textbox SecondaryPhone Try INVALID_SPECIAL_CHARACTERS SecondaryPhone Click Commit Observe ErrorMessage
+Observe Textbox SecondaryPhone Try INVALID_XSR SecondaryPhone Click Commit Observe ErrorMessage
+Observe Dropdown Country Try VALID Country Click Commit NotObserve ErrorMessage
+Observe Textbox Address1 Try VALID Address1 Click Commit NotObserve ErrorMessage
+Observe Textbox Address1 Try BLANK Address1 Click Commit NotObserve ErrorMessage
+Observe Textbox Address1 Try WHITESPACE Address1 Click Commit NotObserve ErrorMessage
+Observe Textbox Address1 Try INVALID_LONG Address1 Click Commit Observe ErrorMessage
+Observe Textbox Address1 Try INVALID_SPECIAL_CHARACTERS Address1 Click Commit Observe ErrorMessage
+Observe Textbox Address1 Try INVALID_XSR Address1 Click Commit Observe ErrorMessage
+Observe Textbox Address2 Try VALID Address2 Click Commit NotObserve ErrorMessage
+Observe Textbox Address2 Try BLANK Address2 Click Commit NotObserve ErrorMessage
+Observe Textbox Address2 Try WHITESPACE Address2 Click Commit NotObserve ErrorMessage
+Observe Textbox Address2 Try INVALID_LONG Address2 Click Commit Observe ErrorMessage
+Observe Textbox Address2 Try INVALID_SPECIAL_CHARACTERS Address2 Click Commit Observe ErrorMessage
+Observe Textbox Address2 Try INVALID_XSR Address2 Click Commit Observe ErrorMessage
+Observe Required Textbox City Try VALID City Click Commit NotObserve ErrorMessage
+Observe Required Textbox City Try BLANK City Click Commit Observe ErrorMessage
+Observe Required Textbox City Try WHITESPACE City Click Commit Observe ErrorMessage
+Observe Required Textbox City Try INVALID_LONG City Click Commit Observe ErrorMessage
+Observe Required Textbox City Try INVALID_SPECIAL_CHARACTERS City Click Commit Observe ErrorMessage
+Observe Required Textbox City Try INVALID_XSR City Click Commit Observe ErrorMessage
+Observe Required Textbox State/Province Try VALID State/Province Click Commit NotObserve ErrorMessage
+Observe Required Textbox State/Province Try BLANK State/Province Click Commit Observe ErrorMessage
+Observe Required Textbox State/Province Try WHITESPACE State/Province Click Commit Observe ErrorMessage
+Observe Required Textbox State/Province Try INVALID_LONG State/Province Click Commit Observe ErrorMessage
+Observe Required Textbox State/Province Try INVALID_SPECIAL_CHARACTERS State/Province Click Commit Observe ErrorMessage
+Observe Required Textbox State/Province Try INVALID_XSR State/Province Click Commit Observe ErrorMessage
+Observe Required Textbox Zip/PostalCode Try VALID Zip/PostalCode Click Commit NotObserve ErrorMessage
+Observe Required Textbox Zip/PostalCode Try BLANK Zip/PostalCode Click Commit Observe ErrorMessage
+Observe Required Textbox Zip/PostalCode Try WHITESPACE Zip/PostalCode Click Commit Observe ErrorMessage
+Observe Required Textbox Zip/PostalCode Try INVALID_LONG Zip/PostalCode Click Commit Observe ErrorMessage
+Observe Required Textbox Zip/PostalCode Try INVALID_SPECIAL_CHARACTERS Zip/PostalCode Click Commit Observe ErrorMessage
+Observe Required Textbox Zip/PostalCode Try INVALID_XSR Zip/PostalCode Click Commit Observe ErrorMessage
+Observe Textbox Address Try VALID Address Click Commit NotObserve ErrorMessage
+Observe Textbox Address Try BLANK Address Click Commit NotObserve ErrorMessage
+Observe Textbox Address Try WHITESPACE Address Click Commit NotObserve ErrorMessage
+Observe Textbox Address Try INVALID_LONG Address Click Commit Observe ErrorMessage
+Observe Textbox Address Try INVALID_SPECIAL_CHARACTERS Address Click Commit Observe ErrorMessage
+Observe Textbox Address Try INVALID_XSR Address Click Commit Observe ErrorMessage
+Observe Textbox City Try VALID City Click Commit NotObserve ErrorMessage
+Observe Textbox City Try BLANK City Click Commit NotObserve ErrorMessage
+Observe Textbox City Try WHITESPACE City Click Commit NotObserve ErrorMessage
+Observe Textbox City Try INVALID_LONG City Click Commit Observe ErrorMessage
+Observe Textbox City Try INVALID_SPECIAL_CHARACTERS City Click Commit Observe ErrorMessage
+Observe Textbox City Try INVALID_XSR City Click Commit Observe ErrorMessage
+Observe Textbox Telephone Try VALID Telephone Click Commit NotObserve ErrorMessage
+Observe Textbox Telephone Try BLANK Telephone Click Commit NotObserve ErrorMessage
+Observe Textbox Telephone Try WHITESPACE Telephone Click Commit NotObserve ErrorMessage
+Observe Textbox Telephone Try INVALID_LONG Telephone Click Commit Observe ErrorMessage
+Observe Textbox Telephone Try INVALID_SPECIAL_CHARACTERS Telephone Click Commit Observe ErrorMessage
+Observe Textbox Telephone Try INVALID_XSR Telephone Click Commit Observe ErrorMessage
+
